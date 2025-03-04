@@ -1,4 +1,4 @@
-import Home from "./component/Home";
+import Home from "./component/home";
 import Navbar from "./component/Navbar";
 import About from "./component/About";
 import Projects from "./component/Projects";
